@@ -1,0 +1,31 @@
+body{
+	background-color: #696969;	
+}
+h1{
+	font-size: 30px;
+	color:#118EE1;
+	}
+
+h2{
+	font-size: 40px;
+	font-family:"Comic Sans MS";
+	color: hotpink;
+}
+
+.Big{
+		font-size: 60px;
+}
+
+.ass{
+	text-transform: uppercase;
+
+}
+.Big.ass {
+	color: navy;
+}
+h1 span{
+	color: red;
+}
+h2 span{
+	color: blue;
+}
